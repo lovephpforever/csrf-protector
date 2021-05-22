@@ -23,7 +23,7 @@
  * SOFTWARE.
  */
 
-namespace LovePHPForever\Core;
+namespace LovePHPForever\CsrfProtector;
 
 use InvalidArgumentException;
 use ParagonIE\ConstantTime\Base64UrlSafe;
